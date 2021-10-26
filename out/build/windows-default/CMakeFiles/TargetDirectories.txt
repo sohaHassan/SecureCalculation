@@ -1,0 +1,2 @@
+C:/msys64/home/iMax/task1/out/build/windows-default/CMakeFiles/edit_cache.dir
+C:/msys64/home/iMax/task1/out/build/windows-default/CMakeFiles/rebuild_cache.dir
